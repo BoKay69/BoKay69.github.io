@@ -1,6 +1,6 @@
 # BoKay69.github.io
 
-##### Hi there
+## Hi there
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="file:///C:/Users/zacke/Downloads/Bokay.jpeg">
