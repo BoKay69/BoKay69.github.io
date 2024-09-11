@@ -1,5 +1,7 @@
 # BoKay69.github.io
 
+file:///C:/Users/zacke/Downloads/Bokay.jpeg
+
 ## About me
 
 Hi! my name is Zack. I am an aspiring software developer for the aerospace industry. I am currently majoring in Computer Science with a minor in Aviation technology. The languages that I specialize in are all the variations of C, however I am knowledgable in Python and Javascript. 
