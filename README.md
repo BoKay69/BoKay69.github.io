@@ -1,6 +1,6 @@
 # BoKay69.github.io
 
-![BoKay profile picture](file:///C:/Users/zacke/Downloads/Bokay.jpeg)
+![BoKay profile picture](Bokay.jpeg)
 
 ## About me
 
